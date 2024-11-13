@@ -1,1 +1,1 @@
-# minxxeo-2024_ML_TermProject_Recommendation-System
+# 2024_ML_TermProject_Recommendation-System
